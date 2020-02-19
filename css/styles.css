@@ -1,0 +1,17 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+.vline {
+  border-left: 6px solid black;
+  height: 500px;
+}
+
+ .hline {
+
+ }
+
+ hr.new1 {
+   border: 1px solid red;
+ }
